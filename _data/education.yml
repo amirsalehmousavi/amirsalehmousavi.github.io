@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MSc, Environmental Engineering
+  uni: University of Tehran
+  year: 2023 &mdash; 2025 (Expected)
+  # awards: 
+    # - award: Summa Cumme Laude graduate
+  summary: Thesis: Development and Evaluation of a Deep Learning Model Based on Kolmogorov-Arnold Networks for Predicting PM2.5 Pollutant Concentration in the City of Tehran
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: BSc, Civil and Enviornmental Engineering
+  uni: Amirkabir University of Technology (Tehran Polytechnic)
+  year: 2018 &mdash; 2022
+  # award: 
+  summary: Graduated 6th out of 100 with distinction
