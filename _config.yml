@@ -1,5 +1,5 @@
 # Site settings
-title: "S. A. Mousavi Webpage"
+title: "S. A. Mousavi Personal Webpage"
 description: "Academic and Professional"
 
 # Build settings
@@ -21,7 +21,7 @@ resume_contact_telephone:       "+989365960459"
 resume_contact_address:         "No. 280, Maryam Ave., Azimiye, Karaj, Iran"
 
 resume_header_contact_info:     "No. 280, Maryam Ave., Azimiye, Karaj, Iran • +98 936 596 0459 • amirsalehmousavi@ut.ac.ir"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 # resume_header_intro: "<p>I am an M.Sc. student in Environmental Engineering at the University of Tehran with a strong passion for research in Artificial Intelligence and Environmental Data Science. When not working, hiking and swimming help me stay active and connected to nature.</p>"
 
