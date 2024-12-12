@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Seyed Amirsaleh Mousavi"
-resume_title:                   "MSc Student of Environmental Engineering"
+resume_title:                   "Graduate Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "amirsalehmousavi@ut.ac.ir"
@@ -33,7 +33,7 @@ resume_header_intro: "<p>I am an M.Sc. student in Environmental Engineering at t
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+# resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
