@@ -1,3 +1,32 @@
 ---
 layout: resume
+title: Home
 ---
+
+<style>
+/* Simple fade-in animation for main content */
+.home-intro {
+  opacity: 0;
+  animation: fadeIn 1.2s ease-out forwards;
+  margin-top: 2rem;
+  text-align: center;
+}
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+.home-photo {
+  border-radius: 50%;
+  max-width: 200px;
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+</style>
+
+<div class="home-intro">
+  <img src="{{ '/images/me.jpg' | relative_url }}" alt="My photo" class="home-photo" />
+  <h1>Hi — I’m [Your Name]</h1>
+  <p>Welcome to my personal site. I am a [your role/field], and here you can find my projects, research, résumé, and more.</p>
+</div>
