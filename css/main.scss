@@ -44,3 +44,11 @@
 .content-wrapper {
   padding: 20px;
 }
+
+/* Smooth link hover effect */
+nav a {
+  transition: color 0.3s ease;
+}
+nav a:hover {
+  color: #2c8ebb; /* or your preferred highlight color */
+}
