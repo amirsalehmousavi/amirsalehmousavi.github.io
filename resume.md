@@ -4,9 +4,11 @@ title: Resume
 permalink: /resume/
 ---
 
-# Resume
 
 ## Education
+
+---
+
 **Amirkabir University of Technology**, Tehran, Iran  
 B.Sc. in Civil and Environmental Engineering (2018–2022)  
 CGPA: 17.24/20.00 (3.63/4.00)
