@@ -4,5 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
-Your projects content here.
+To be completed.
