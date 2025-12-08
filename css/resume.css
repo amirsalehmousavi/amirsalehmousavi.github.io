@@ -1,0 +1,216 @@
+/* Resume Template Styles - Based on GitHub Resume Template */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+/* Base body styling for resume page */
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Content wrapper for resume */
+.content-wrapper {
+  max-width: 900px;
+  margin: 40px auto;
+  background-color: #fff;
+  padding: 60px 80px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Main resume heading */
+.content-wrapper h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+  color: #2c3e50;
+  margin: 0 0 10px 0;
+  padding: 0;
+  border-bottom: 3px solid #2c3e50;
+  padding-bottom: 15px;
+}
+
+/* Section headings */
+.content-wrapper h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #2c3e50;
+  margin: 35px 0 15px 0;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+/* Subsection headings */
+.content-wrapper h3 {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #34495e;
+  margin: 20px 0 8px 0;
+}
+
+/* Strong/Bold text for job titles, institutions */
+.content-wrapper strong {
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+/* Paragraphs */
+.content-wrapper p {
+  margin: 10px 0;
+  line-height: 1.6;
+}
+
+/* Lists */
+.content-wrapper ul {
+  margin: 10px 0 20px 0;
+  padding-left: 25px;
+  list-style-type: disc;
+}
+
+.content-wrapper li {
+  margin: 8px 0;
+  line-height: 1.6;
+}
+
+/* Horizontal rules */
+.content-wrapper hr {
+  border: 0;
+  height: 1px;
+  background-color: #e0e0e0;
+  margin: 30px 0;
+}
+
+/* Links */
+.content-wrapper a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.content-wrapper a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+/* Styling for education/experience sections */
+.content-wrapper h2 + p strong:first-child {
+  font-size: 1.1em;
+  display: block;
+  margin-bottom: 3px;
+}
+
+/* Navigation bar styling */
+.navbar {
+  background-color: #2c3e50;
+  padding: 0;
+  margin: 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar li {
+  margin: 0;
+}
+
+.navbar a {
+  display: block;
+  color: #ecf0f1;
+  text-decoration: none;
+  padding: 18px 25px;
+  font-weight: 400;
+  transition: background-color 0.3s ease;
+}
+
+.navbar a:hover {
+  background-color: #34495e;
+}
+
+/* Footer styling */
+footer {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+/* Responsive design */
+@media screen and (max-width: 768px) {
+  .content-wrapper {
+    padding: 40px 30px;
+    margin: 20px;
+  }
+  
+  .content-wrapper h1 {
+    font-size: 2em;
+  }
+  
+  .content-wrapper h2 {
+    font-size: 1.3em;
+  }
+  
+  .navbar ul {
+    flex-direction: column;
+  }
+  
+  .navbar a {
+    padding: 12px 20px;
+    border-bottom: 1px solid #34495e;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .content-wrapper {
+    padding: 30px 20px;
+    margin: 10px;
+  }
+  
+  .content-wrapper h1 {
+    font-size: 1.8em;
+  }
+  
+  body {
+    font-size: 15px;
+  }
+}
+
+/* Print styles */
+@media print {
+  body {
+    background-color: #fff;
+  }
+  
+  .navbar {
+    display: none;
+  }
+  
+  .content-wrapper {
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+  }
+  
+  footer {
+    display: none;
+  }
+  
+  .content-wrapper h1 {
+    border-bottom: 2px solid #000;
+  }
+  
+  .content-wrapper h2 {
+    border-bottom: 1px solid #000;
+  }
+}
