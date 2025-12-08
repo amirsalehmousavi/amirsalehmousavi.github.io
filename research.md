@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: Research
 permalink: /research/
 ---
 
-# Research
-Your research content here.
+To be completed.
