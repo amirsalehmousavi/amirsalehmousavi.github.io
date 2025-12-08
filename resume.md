@@ -8,7 +8,7 @@ permalink: /resume/
 
 <h2>EDUCATION</h2>
 
-**Politecnico di Milano**, Milan, Italy <span style="float:right;">2025–2027(Expected)</span><br>
+**Politecnico di Milano**, Milan, Italy <span style="float:right;">2025–Now</span><br>
 MSc Structural Engineering<br>
 
 **Amirkabir University of Technology (Tehran Polytechnic)**, Tehran, Iran <span style="float:right;">2018–2022</span><br>
