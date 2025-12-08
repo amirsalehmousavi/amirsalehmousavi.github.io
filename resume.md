@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+---
+
 <h2>EDUCATION</h2>
 
 **Politecnico di Milano**, Milan, Italy <span style="float:right;">2025–2027(Expected)</span><br>
@@ -19,16 +21,19 @@ CGPA: 19.85/20.00 (4.00/4.00)
 
 ---
 
-<h2>TEACHING EXPERIENCE</h2>
-**Teaching Assistant**, Amirkabir University of Technology <span style="float:right;">2022–2023</span><br>
-Systems Engineering - Optimization Module
-
----
-
 <h2>PROFESSIONAL EXPERIENCE</h2>
 **Structural Designer (Full-time)** — Behan Sadd Consulting Engineers <span style="float:right;">Jan 2023 – Dec 2024</span><br>
 
 **Student Internship** — Central Municipality (Internship), Karaj <span style="float:right;">Jun 2022 – Sep 2022</span>
+
+---
+
+<h2>TEACHING EXPERIENCE</h2>
+**Teaching Assistant**, Amirkabir University of Technology <span style="float:right;">2022–2023</span><br>
+Systems Engineering - Optimization Module
+
+**Personal Tutor**, — (Part-time) <span style="float:right;">2019–2022</span><br>
+Mathematics & Physics for Highschool Students
 
 ---
 
