@@ -32,7 +32,7 @@ CGPA: 19.85/20.00 (4.00/4.00)
 **Teaching Assistant**, Amirkabir University of Technology <span style="float:right;">2022–2023</span><br>
 Systems Engineering - Optimization Module
 
-**Personal Tutor**, — (Part-time) <span style="float:right;">2019–2022</span><br>
+**Personal Tutor**, (Part-time) <span style="float:right;">2019–2022</span><br>
 Mathematics & Physics for Highschool Students
 
 ---
