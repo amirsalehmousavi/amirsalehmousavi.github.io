@@ -4,5 +4,7 @@ title: Album
 permalink: /album/
 ---
 
-# Album
-Your album content here.
+<figure>
+  <img src="images/Grad.jpg" alt="Graduating in Civil Engineering alongside my friends. It was a bitter-sweet day, saying goodbye to everyone." style="width:100%; max-width:400px;">
+  <figcaption>Graduating in Civil Engineering alongside my friends. It was a bitter-sweet day, saying goodbye to everyone.</figcaption>
+</figure>
