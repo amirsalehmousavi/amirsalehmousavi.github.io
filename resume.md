@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: res
 title: Resume
 permalink: /resume/
 ---
