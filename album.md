@@ -13,3 +13,8 @@ permalink: /album/
   <img src="{{ site.baseurl }}/images/grad.jpg" alt="Photo 1">
   <figcaption>Photo 1 caption</figcaption>
 </figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/grad.jpg" alt="Photo 1" style="width:60%; max-width:500px;">
+  <figcaption>Photo 1 caption</figcaption>
+</figure>
