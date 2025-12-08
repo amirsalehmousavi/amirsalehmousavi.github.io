@@ -17,14 +17,14 @@ permalink: /album/
 
 <figure style="text-align:center;">
   <img src="{{ site.baseurl }}/images/Behan.jpg" alt="BehanSadd" style="width:100%; max-width:2000px;">
-  <figcaption>My time in the office was truly rewarding—it helped me grow a lot. -2024 With Colleagues at Behan Sadd Consulting Engineers</figcaption>
+  <figcaption>My time in the office was truly rewarding—it helped me grow a lot. 2024-With Colleagues at Behan Sadd Consulting Engineers</figcaption>
 </figure>
 
 ---
 
 <figure style="text-align:center;">
   <img src="{{ site.baseurl }}/images/grad.jpg" alt="Graduation" style="width:100%; max-width:2000px;">
-  <figcaption>Marking the end of an incredible journey in Civil Engineering, grateful for the friends and memories along the way. Saying goodbye was bittersweet. 2022-Amirkabir University of Technology.</figcaption>
+  <figcaption>Marking the end of an incredible journey at Amirkabir University, grateful for the friends and memories along the way. Saying goodbye was bittersweet. 2022-Amirkabir University of Technology.</figcaption>
 </figure>
 
 ---
@@ -35,7 +35,7 @@ permalink: /album/
     <img src="{{ site.baseurl }}/images/Abr.jpg" style="width:100%; max-width:2000px;">
     <img src="{{ site.baseurl }}/images/baraghan.jpg" style="width:100%; max-width:2000px;">
   </div>
-  <figcaption>Covid was a challenging time, but staying close to nature kept me grounded. Along the way, I visited many projects and learned a lot. -2021</figcaption>
+  <figcaption>Covid was a challenging time, but staying close to nature kept me grounded. Along the way, I visited many projects and learned a lot. 2021</figcaption>
 </figure>
 
 ---
