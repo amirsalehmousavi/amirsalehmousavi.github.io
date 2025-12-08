@@ -8,19 +8,17 @@ layout: base
 
   <header class="page-header">
 
-  <!-- Keep your name so layout spacing is preserved -->
   <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
 
-  <!-- Remove job title and icon links -->
-  <!--
+  {% comment %}
   <div class="title-bar no-print">
     <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
     {% include icon-links.html %}
   </div>
-  -->
+  {% endcomment %}
 
   </header>
-
+  
   {{ content }}
   
   <footer class="page-footer">
