@@ -24,7 +24,7 @@ CGPA: 19.85/20.00 (4.00/4.00)
 <h2>PROFESSIONAL EXPERIENCE</h2>
 **Structural Designer (Full-time)** — Behan Sadd Consulting Engineers <span style="float:right;">Jan 2023 – Dec 2024</span><br>
 
-**Student Internship** — Central Municipality (Internship), Karaj <span style="float:right;">Jun 2022 – Sep 2022</span>
+**Student Internship** — Central Municipality, Karaj <span style="float:right;">Jun 2022 – Sep 2022</span>
 
 ---
 
