@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: res_mp
 title: Resume
 permalink: /resume/
 ---
