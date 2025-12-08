@@ -20,8 +20,7 @@ CGPA: 19.85/20.00 (4.00/4.00)
 ---
 
 <h2>TEACHING EXPERIENCE</h2>
-**Teaching Assistant**<span style="float:right;">2022–2023</span><br>
-Amirkabir University of Technology (Tehran Polytechnic)
+**Teaching Assistant**, Amirkabir University of Technology <span style="float:right;">2022–2023</span><br>
 Systems Engineering - Optimization Module
 
 ---
