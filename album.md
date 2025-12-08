@@ -8,3 +8,8 @@ permalink: /album/
   <img src="images/grad.jpg" alt="Graduation" style="width:100%; max-width:400px;">
   <figcaption>Graduating in Civil Engineering alongside my friends. It was a bitter-sweet day, saying goodbye to everyone.</figcaption>
 </figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/grad.jpg" alt="Photo 1">
+  <figcaption>Photo 1 caption</figcaption>
+</figure>
