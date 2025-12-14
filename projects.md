@@ -21,9 +21,6 @@ To be completed.
       <img src="/images/tunnel/rockload_h.jpg" alt="rock_h">
     </div>
     <div class="swiper-slide">
-      <img src="/images/tunnel/rockload_h.jpg" alt="rock_h">
-    </div>
-    <div class="swiper-slide">
       <img src="/images/tunnel/axial_force.jpg" alt="axial">
     </div>
     <div class="swiper-slide">
