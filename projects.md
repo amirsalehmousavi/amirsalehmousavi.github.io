@@ -88,7 +88,7 @@ This is another method for designing the RC section. The plane-strain idealizati
 
 <figure style="text-align:center;">
   <img src="{{ site.baseurl }}/images/tunnel/continum_model.png" alt="continum" style="width:100%; max-width:1500px;">
-  <figcaption>My time in the office was truly rewarding—it helped me grow a lot. 2024-With colleagues at Behan Sadd Consulting Engineers</figcaption>
+  <figcaption>Final displacement contour.</figcaption>
 </figure>
 
 The distribution of stresses and strains on the section is then considered as the basis for determining the sufficient strength of the lining structure.
