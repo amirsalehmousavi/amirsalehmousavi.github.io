@@ -99,21 +99,21 @@ The distribution of stresses and strains on the section is then considered as th
   <div class="swiper-slide">
       <img src="/images/tunnel/axial_plaxis.png" alt="model">
       <div class="slide-caption">
-        Bending moment diagram of the tunnel section
+        Axial load diagram of the tunnel section ($ton.m$)
       </div>
     </div>
 
   <div class="swiper-slide">
       <img src="/images/tunnel/bending_plaxis.png" alt="hydro">
       <div class="slide-caption">
-        Hydrostatic pressure distribution on tunnel boundary ($\frac{ton}{m}$)
+        Bending moment diagram of the tunnel section ($ton.m$)
       </div>
     </div>
 
   <div class="swiper-slide">
       <img src="/images/tunnel/shear_plaxis.png" alt="rock_v">
       <div class="slide-caption">
-        Vertical rock load distribution acting on tunnel crown ($\frac{ton}{m}$)
+        Shear force diagram of the tunnel section ($ton$)
       </div>
     </div>
 
