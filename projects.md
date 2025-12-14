@@ -9,11 +9,13 @@ permalink: /projects/
 
 <div class="justify-text">
 As a part of the structural design team at Behan Sadd Co., I was involved in the modeling and design of the permanent lining structures in several projects. Using commercial Finite Element Analysis (FEA) softwares such as SAP2000, PLAXIS 2D, and Ansys Static Structural, I designed the Reinforced Concrete (RC) lining structure that complied with the requirements of *EM 1110-2-290*, *EM 1110-2-2104*, and *ACI 318-08* standards. 
+</div>
 
 ### 2D Frame FEA-Based Design Approach
 
 <div class="justify-text">
 In this approach, in each of the rock formations along the tunnel axis, we analysed the structural response of the RC lining through a plane-strain FEA procedure. In this method, estimated rock and hydrostatic loads are imposed on the lining as surface loads and the effect of seismic events as asigned deformations [1,2]. The result is then checked in terms of axial, shear and bending strength.
+</div>
 
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
@@ -88,6 +90,7 @@ In this approach, in each of the rock formations along the tunnel axis, we analy
 
 <div class="justify-text">
 This is another method for designing the RC section. The plane-strain idealization is analgously assumed in this approach but we developed a larger mesh that modeled both the media and the structure.
+</div>
 
 <figure style="text-align:center;">
   <img src="{{ site.baseurl }}/images/tunnel/continum_model.png" alt="continum" style="width:100%; max-width:1500px;">
@@ -96,6 +99,7 @@ This is another method for designing the RC section. The plane-strain idealizati
 
 <div class="justify-text">
 The distribution of stresses and strains on the section is then considered as the basis for determining the sufficient strength of the lining structure.
+</div>
 
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
