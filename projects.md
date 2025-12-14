@@ -99,7 +99,7 @@ The distribution of stresses and strains on the section is then considered as th
   <div class="swiper-slide">
       <img src="/images/tunnel/axial_plaxis.png" alt="model">
       <div class="slide-caption">
-        Axial load diagram of the tunnel section ($ton.m$)
+        Axial load diagram of the tunnel section ($ton$)
       </div>
     </div>
 
