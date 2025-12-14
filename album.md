@@ -17,7 +17,7 @@ permalink: /album/
 
 <figure style="text-align:center;">
   <img src="{{ site.baseurl }}/images/Behan.jpg" alt="BehanSadd" style="width:100%; max-width:2000px;">
-  <figcaption>My time in the office was truly rewarding—it helped me grow a lot. 2024-With Colleagues at Behan Sadd Consulting Engineers</figcaption>
+  <figcaption>My time in the office was truly rewarding—it helped me grow a lot. 2024-With colleagues at Behan Sadd Consulting Engineers</figcaption>
 </figure>
 
 ---
