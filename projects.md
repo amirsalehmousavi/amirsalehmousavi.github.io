@@ -4,7 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-To be completed.
+
+<h2>STRUCTURAL DESIGN OF TUNNEL’S PERMANENT LINING</h2>
+
+## 2D Frame FEM-Based Design Approach
 
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
