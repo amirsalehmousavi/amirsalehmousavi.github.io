@@ -8,7 +8,7 @@ permalink: /projects/
 <h2>STRUCTURAL DESIGN OF TUNNEL’S PERMANENT LINING</h2>
 
 <div class="justify-text">
-As a part of the structural design team at Behan Sadd Co., I was involved in the modeling and design of the permanent lining structures in several projects. Using commercial Finite Element Analysis (FEA) softwares such as SAP2000, PLAXIS 2D, and Ansys Static Structural, I designed the Reinforced Concrete (RC) lining structure that complied with the requirements of *EM 1110-2-290*, *EM 1110-2-2104*, and *ACI 318-08* standards. 
+As a part of the structural design team at Behan Sadd Co., I was involved in the modeling and design of the permanent lining structures in several projects. Using commercial Finite Element Analysis (FEA) softwares such as SAP2000, PLAXIS 2D, and Ansys Static Structural, I designed the Reinforced Concrete (RC) lining structure that complied with the requirements of EM 1110-2-290, EM 1110-2-2104, and ACI 318-08 standards. 
 </div>
 
 ### 2D Frame FEA-Based Design Approach
