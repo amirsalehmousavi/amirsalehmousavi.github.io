@@ -8,27 +8,56 @@ To be completed.
 
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
-    <div class="swiper-slide">
+
+  <div class="swiper-slide">
       <img src="/images/tunnel/model.jpg" alt="model">
+      <div class="slide-caption">
+        Finite element model of the tunnel lining
+      </div>
     </div>
-    <div class="swiper-slide">
+
+  <div class="swiper-slide">
       <img src="/images/tunnel/hydro_tunnel.jpg" alt="hydro">
+      <div class="slide-caption">
+        Hydrostatic pressure distribution on tunnel boundary
+      </div>
     </div>
-    <div class="swiper-slide">
+
+  <div class="swiper-slide">
       <img src="/images/tunnel/rockload_v.jpg" alt="rock_v">
+      <div class="slide-caption">
+        Vertical rock load acting on tunnel crown
+      </div>
     </div>
-    <div class="swiper-slide">
+
+  <div class="swiper-slide">
       <img src="/images/tunnel/rockload_h.jpg" alt="rock_h">
+      <div class="slide-caption">
+        Horizontal rock load acting on tunnel lining
+      </div>
     </div>
-    <div class="swiper-slide">
+
+  <div class="swiper-slide">
       <img src="/images/tunnel/axial_force.jpg" alt="axial">
+      <div class="slide-caption">
+        Axial force distribution along the tunnel lining
+      </div>
     </div>
-    <div class="swiper-slide">
+
+  <div class="swiper-slide">
       <img src="/images/tunnel/moment_tunnel.jpg" alt="moment">
+      <div class="slide-caption">
+        Bending moment diagram of the tunnel section
+      </div>
     </div>
-    <div class="swiper-slide">
+
+  <div class="swiper-slide">
       <img src="/images/tunnel/seismic_tunnel_design.jpg" alt="seismic">
+      <div class="slide-caption">
+        Seismic loading and tunnel design response
+      </div>
     </div>
+
   </div>
 
   <!-- Navigation -->
