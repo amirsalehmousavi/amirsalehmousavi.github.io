@@ -86,3 +86,21 @@ html {
   line-height: 1.4;
 }
 
+/* Fix pagination overlapping captions */
+.swiper {
+  padding-bottom: 40px; /* creates space for pagination dots */
+}
+
+.swiper-pagination {
+  bottom: 0 !important;
+}
+
+.swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  opacity: 0.4;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 0.9;
+}
