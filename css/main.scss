@@ -56,3 +56,24 @@ nav a:hover {
 html {
   overflow-y: scroll;
 }
+
+/* Slider image size control */
+.swiper {
+  width: 100%;
+  max-width: 600px; /* adjust this width if you want images smaller */
+  margin: 1.5rem auto;
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 350px;      /* fixed visible height */
+  object-fit: contain; /* preserves full image scaled down */
+  border-radius: 8px;
+}
+
