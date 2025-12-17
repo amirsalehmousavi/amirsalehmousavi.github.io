@@ -14,7 +14,7 @@ As a part of the structural design team at Behan Sadd Co., I was involved in the
 ### 2D Frame FEA-Based Design Approach
 
 <div class="justify-text">
-In this approach, in each of the rock formations along the tunnel axis, we analysed the structural response of the RC lining through a plane-strain FEA procedure. In this method, estimated rock and hydrostatic loads are imposed on the lining as surface loads and the effect of seismic events as asigned deformations [1,2]. The result is then checked in terms of axial, shear and bending strength.
+In this approach, in each of the rock formations along the tunnel axis, we analysed the structural response of the RC lining through a plane-strain FEA procedure. In this method, estimated rock and hydrostatic loads are imposed on the lining as surface loads and the effect of seismic events as asigned deformations [1,2]. The interaction of the lining and the rock is also modeled as a set of non-linear external springs (acting only in pressure). The result is then checked in terms of axial, shear and bending strength.
 </div>
 
 <div class="swiper mySwiper">
@@ -89,7 +89,7 @@ In this approach, in each of the rock formations along the tunnel axis, we analy
 ### Continuum FEA Modeling of Rock–Concrete Interaction
 
 <div class="justify-text">
-This is another method for designing the RC section. The plane-strain idealization is analgously assumed in this approach but we developed a larger mesh that modeled both the media and the structure.
+This is another method for designing the RC section. The plane-strain idealization is analogously assumed in this approach but we developed a larger mesh that modeled both the media and the structure.
 </div>
 
 <figure style="text-align:center;">
