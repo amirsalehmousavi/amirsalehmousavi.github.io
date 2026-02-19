@@ -149,7 +149,7 @@ Starting from the architectural drawings, I developed the structural system and 
 
 <figure style="text-align:center;">
   <img src="{{ site.baseurl }}/images/BSc_Prject.jpg" style="width:100%; max-width:2000px; margin-bottom:10px;">
-  <figcaption>Technical Drawings and</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 <div class="justify-text">
