@@ -137,6 +137,25 @@ The distribution of stresses and strains on the section is then considered as th
 
 ---
 
+<h2>STRUCTURAL DESIGN OF RESIDENTIAL BUILDINGS - CONCRETE AND STEEL</h2>
+
+<div class="justify-text">
+As part of my final BSc project, I carried out the structural design of a multi-storey residential building using both reinforced concrete and structural steel systems. The project involved the complete analysis and design of key structural elements, including slabs, beams, columns, foundations, and lateral load-resisting systems.
+</div>
+
+<div class="justify-text">
+Starting from the architectural drawings, I developed the structural system and performed detailed modelling using ETABS for global analysis and SAFE for slab and foundation design. The finite element results were independently verified through analytical and classical structural methods, including Navier’s and Timoshenko’s solutions for slab behavior, as well as the Portal Frame Method and the Equivalent Frame Method for frame analysis.
+</div>
+
+<figure style="text-align:center;">
+  <img src="{{ site.baseurl }}/images/BSc_Prject.jpg" style="width:100%; max-width:2000px; margin-bottom:10px;">
+  <figcaption>Technical Drawings and</figcaption>
+</figure>
+
+<div class="justify-text">
+All structural elements were designed using the Load and Resistance Factor Design (LRFD) approach. Steel members were checked in accordance with AISC 360 and AISC 341 provisions, while reinforced concrete elements — including foundations — were designed following ACI 318 requirements. Seismic response and lateral performance were explicitly considered throughout the design process.
+</div>
+
 <h2>REFERENCES</h2>
 
 [1] Hashash, Y. M., Hook, J. J., Schmidt, B., & Yao, J. I. C. (2001). Seismic design and analysis of underground structures. Tunnelling and underground space technology, 16(4), 247-293.
