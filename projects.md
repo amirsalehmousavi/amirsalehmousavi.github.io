@@ -156,18 +156,13 @@ Starting from the architectural drawings, I developed the structural system and 
 All structural elements were designed using the Load and Resistance Factor Design (LRFD) approach. Steel members were checked in accordance with AISC 360 and AISC 341 provisions, while reinforced concrete elements — including foundations — were designed following ACI 318 requirements. Seismic response and lateral performance were explicitly considered throughout the design process.
 </div>
 
+---
+
 <h2>REFERENCES</h2>
 
 [1] Hashash, Y. M., Hook, J. J., Schmidt, B., & Yao, J. I. C. (2001). Seismic design and analysis of underground structures. Tunnelling and underground space technology, 16(4), 247-293.
 
 [2] Schleiss, A. J. (2020). Design of concrete linings of pressure tunnels and shafts for external water pressure. In Tunnelling Asia'97 (pp. 147-156). CRC Press.
-
-
-
-
-
-
-
 
 <script>
   const swiper = new Swiper('.mySwiper', {
