@@ -11,20 +11,14 @@ permalink: /album/
 
   <div class="swiper-slide">
       <img src="/images/Opert.jpg" alt="Op1">
-      <div class="slide-caption">
-      </div>
     </div>
 
   <div class="swiper-slide">
       <img src="/images/Opert2.jpg" alt="Op2">
-      <div class="slide-caption">
-      </div>
     </div>
 
   <div class="swiper-slide">
       <img src="/images/Opert3.jpg" alt="Op3">
-      <div class="slide-caption">
-      </div>
     </div>
 
   </div>
