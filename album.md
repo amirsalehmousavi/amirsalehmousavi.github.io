@@ -6,12 +6,41 @@ permalink: /album/
 
 ---
 
-<figure style="text-align:center;">
-  <img src="{{ site.baseurl }}/images/Opert.jpg" style="width:100%; max-width:2000px; margin-bottom:10px;">
-  <img src="{{ site.baseurl }}/images/Opert2.jpg" style="width:100%; max-width:2000px; margin-bottom:10px;">
-  <img src="{{ site.baseurl }}/images/Opert3.jpg" style="width:100%; max-width:2000px;">
-  <figcaption>Outside is where I recharge. Abr Forest, 2019—nature, friends, and the kind of peace you carry with you.</figcaption>
-</figure>
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+
+  <div class="swiper-slide">
+      <img src="/images/Opert.jpg" alt="Op1">
+      <div class="slide-caption">
+      </div>
+    </div>
+
+  <div class="swiper-slide">
+      <img src="/images/Opert2.jpg" alt="Op2">
+      <div class="slide-caption">
+      </div>
+    </div>
+
+  <div class="swiper-slide">
+      <img src="/images/Opert3.jpg" alt="Op3">
+      <div class="slide-caption">
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Global Caption -->
+  <div class="global-caption">
+    Outside is where I recharge. Abr Forest, 2019—nature, friends, and the kind of peace you carry with you.
+  </div>
+  
+  <!-- Navigation -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+
+  <!-- Pagination dots -->
+  <div class="swiper-pagination"></div>
+</div>
 
 ---
 
@@ -29,13 +58,40 @@ permalink: /album/
 
 ---
 
-<figure style="text-align:center;">
-  <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
-    <img src="{{ site.baseurl }}/images/Saman.jpg" style="width:100%; max-width:2000px;">
-    <img src="{{ site.baseurl }}/images/Abr.jpg" style="width:100%; max-width:2000px;">
-    <img src="{{ site.baseurl }}/images/baraghan.jpg" style="width:100%; max-width:2000px;">
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+
+  <div class="swiper-slide">
+      <img src="/images/Saman.jpg" alt="S1">
+      <div class="slide-caption">
+      </div>
+    </div>
+
+  <div class="swiper-slide">
+      <img src="/images/Abr.jpg" alt="S2">
+      <div class="slide-caption">
+      </div>
+    </div>
+
+  <div class="swiper-slide">
+      <img src="/images/baraghan.jpg" alt="S3">
+      <div class="slide-caption">
+      </div>
+    </div>
+
   </div>
-  <figcaption>Covid was a challenging time, but staying close to nature kept me grounded. Along the way, I visited many projects and learned a lot. 2021</figcaption>
-</figure>
+
+  <!-- Global Caption -->
+  <div class="global-caption">
+    Covid was a challenging time, but staying close to nature kept me grounded. Along the way, I visited many projects and learned a lot. 2021
+  </div>
+  
+  <!-- Navigation -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+
+  <!-- Pagination dots -->
+  <div class="swiper-pagination"></div>
+</div>
 
 ---
